@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I'm Evert 👋
 
-<!--
-**elecprog/elecprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently:  
+👨‍💻 Generative Art with [eggscm](//github.com/elecprog/eggscm) and [srray](//github.com/elecprog/srray).  
+👨‍🔬 Always interested in scientific research.  
+🖊️ Master thesis on Numerical Spectroscopy, working on [Legolas](//github.com/elecprog/legolas).  
+👨‍🎓 KU Leuven, Master of Mathematical Engineering.
 
-Here are some ideas to get you started:
+💻 Main languages: Julia, Python, Fortran, and Rust.  
+📚 Learning: Scheme.  
+🗄️ Worked in: Go, Java, C, C++, Prolog, and Haskell.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+See the bar on the left or [elecprog.com](https://www.elecprog.com) for more.
